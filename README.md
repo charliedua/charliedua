@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Hdrophonic Systems
 - 💬 Ask me about IOT and other Awesome Projects
 - 📫 How to reach me: duaanmol2@gmail.com
-- 🕸 Check out my profile charliedua.com/portfolio
+- 🕸 Check out my profile [charliedua.com/portfolio](charliedua.com/portfolio)
 - ⚡ Fun fact: I love to fiddle around with different linux distros
