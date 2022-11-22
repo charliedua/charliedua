@@ -1,20 +1,18 @@
 ## Hi there I am Anmol - aka Charlie 👋
 
-### I am a Graduate Software Developer
-
-- 🔭 I’m currently working on a Weather Station
-- 🌱 I’m currently learning Docker and other DevOps tools
-- 🤔 I’m looking for help with Hdrophonic Systems
+- 🔭 Software developer at GoannaAg
+- 🌱 I’m currently learning the internals of the 6502 microcontroller
+- 🤔 I’m also intrested in Hdrophonic Systems
 - 💬 Ask me about IOT and other Awesome Projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: design and think of a fully autonomus Hydrophonic enclosure
 - 📫 How to reach me: duaanmol2@gmail.com
 - 🕸 Check out my profile [charliedua.com/portfolio](charliedua.com/portfolio)
 - ⚡ Fun fact: I love to fiddle around with different linux distros
 
 ### Connect with me
 
-[<img align="left" alt="charliedua | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="charliedua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="charliedua | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="charliedua | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 <br />
 
