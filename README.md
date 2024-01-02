@@ -1,12 +1,11 @@
 ## Hi there I am Anmol - aka Charlie 👋
 
-- 🔭 Software developer at GoannaAg
+- 🔭 Software developer at [GoannaAg](https://www.goannaag.com/)
 - 🌱 I’m currently learning the internals of the 6502 microcontroller
-- 🤔 I’m also intrested in Hdrophonic Systems
+- 🤔 I’m also intrested in 2d physics in games
 - 💬 Ask me about IOT and other Awesome Projects
-- 🥅 2022 Goals: design and think of a fully autonomus Hydrophonic enclosure
+- 🥅 2024 Goals: build a 6502 compiler from scratch in C#
 - 📫 How to reach me: duaanmol2@gmail.com
-- 🕸 Check out my profile [charliedua.com/portfolio](charliedua.com/portfolio)
 - ⚡ Fun fact: I love to fiddle around with different linux distros
 
 ### Connect with me
