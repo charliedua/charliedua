@@ -1,12 +1,12 @@
 ## Hi there I am Anmol - aka Charlie 👋
 
 - 🔭 Software developer at [GoannaAg](https://www.goannaag.com/)
-- 🌱 I’m currently learning the internals of the 6502 microcontroller
-- 🤔 I’m also intrested in 2d physics in games
+- 🌱 I’m currently learning the RISC-V architecture
+- 🤔 I’m also interested in 2d physics in games
 - 💬 Ask me about IOT and other Awesome Projects
-- 🥅 2024 Goals: build a 6502 compiler from scratch in C#
+- 🥅 2024 Goals: start with the development board for RISC-V and develop a small kernel for an IOT project.
 - 📫 How to reach me: duaanmol2@gmail.com
-- ⚡ Fun fact: I love to fiddle around with different linux distros
+- ⚡ Fun fact: I love to fiddle around with different Linux distros
 
 ### Connect with me
 
