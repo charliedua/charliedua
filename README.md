@@ -6,4 +6,4 @@
 
 ### Connect with me
 
-[linkedin]: https://www.linkedin.com/in/anmol-dua/
+linkedin: https://www.linkedin.com/in/anmol-dua/
